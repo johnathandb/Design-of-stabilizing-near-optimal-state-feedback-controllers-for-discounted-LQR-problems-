@@ -1,0 +1,11 @@
+Convex optimization problem solved: K close to Kgamma
+value of gamma (for which the optimal is not stabilizing): 0.5
+Decay rate asked : 0.95
+epsilon used : 1e-6
+delta_t used: 10ms
+upper-bound for M: X 
+initial condition: without
+optimal solution found : YES
+
+Q=diag(100,10,10,1)
+R=10

@@ -20,10 +20,10 @@ This file 2 others files names 'Experience_1' and 'Experience_2'. Each of these 
 If you don't want to download the mp4 file of the 2 experiments. these one can also be found on youtube at the following URL:
 
 Experiment 1:
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=0R-1BmAn_OU)
+[▶️ Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=0R-1BmAn_OU)
 
  
 Experiment 2:
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=_ZL3x4MsT28)
+[▶️ Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=_ZL3x4MsT28)
 
  

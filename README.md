@@ -17,7 +17,7 @@ The solution of the convex optimization problems presented in the paper 'Design 
 ## File order_reduced_model 
 This file 2 others files names 'Experience_1' and 'Experience_2'. Each of these files contains the detailed setting of the convex-optimization problem solved in a file .txt, the data obtained during the experiment are stored in matlab's files and the video of the experience is presented in a file .mp4.
 
-If you don't want to download the mp4 file of the 2 experiments. these one can also be found on youtube at the following URL:
+If you don't want to download the mp4 file of the 2 experiments. these one can also be found on youtube at the following URL
 
 Experiment 1:
 [▶️ Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=0R-1BmAn_OU)
